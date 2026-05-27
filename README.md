@@ -33,16 +33,18 @@ This system was built to simplify managing news content through a structured adm
 
 ## 📂 Project Structure
 
-***config/ → Database connection
-***images/ → Uploaded images
-***header.php → Layout header
-***footer.php → Layout footer
-***dashboard.php → Admin panel
-***add_news.php → Create news
-***view_news.php → Display news
-***add_category.php → Manage categories
-***login.php → User login
-***register.php → User registration
+```text
+config/           → Database connection
+images/           → Uploaded images
+header.php        → Layout header
+footer.php        → Layout footer
+dashboard.php     → Admin panel
+add_news.php      → Create news
+view_news.php     → Display news
+add_category.php  → Manage categories
+login.php         → User login
+register.php      → User registration
+```
  
 ---
 
@@ -57,11 +59,17 @@ This system was built to simplify managing news content through a structured adm
 
 1. Install **XAMPP**
 2. Start **Apache & MySQL**
+
 3. Move project folder to:
-```C:\xampp\htdocs\news-system
+
+```text
+C:\xampp\htdocs\news-system
 ```
+
 4. Open browser and run:
-```http://localhost/news-system/register.php
+
+```text
+http://localhost/news-system/register.php
 ```
 
 ---
