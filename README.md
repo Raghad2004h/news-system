@@ -48,6 +48,25 @@ register.php      → User registration
  
 ---
 
+## 🗄️ Database Setup
+
+1. Open phpMyAdmin
+2. Create a database named:
+
+```text
+news_db
+```
+
+3. Import the file:
+
+```text
+database.sql
+```
+
+4. Run the project
+
+---
+
 ## 🖼️ Screenshots
 
 ![Login Page](images/login.png)
